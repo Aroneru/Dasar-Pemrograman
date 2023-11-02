@@ -1,5 +1,7 @@
 # Dasar-Pemrograman
-Muhammad Yermi Rachman (J0403231034)
+Muhammad Yermi Rachman 
+(J0403231034)
+Teknologi Rekayasa Perangkat Lunak B-1
 
 ## Project Hierarchy
 1. [Function](https://github.com/Aroneru/Dasar-Pemrograman/tree/Python-lab/Function)
